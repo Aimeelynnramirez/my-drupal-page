@@ -1,0 +1,10 @@
+global-styling:
+  css:
+    theme:
+      css/style.css: {}
+  js:
+    js/imagesloaded.pkgd.min.js: {}
+    js/isotope.pkgd.min.js: {}
+    js/init.js: {}
+  dependencies:
+    - core/jquery
